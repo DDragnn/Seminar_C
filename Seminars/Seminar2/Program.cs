@@ -87,26 +87,27 @@
 // является ли второе число кратным первому. Если второе число не кратно числу первому, 
 // то программа выводит остаток от деления.
 
+// 34, 5 -> не кратно, остаток 4
+// 16, 4 -> кратно
 
 
+void KratDecimal(double num1, double num2)
+{
+    if (num1 % num2 == 0)
+    {
+        Console.WriteLine("Кратно");
+    }
+    else
+    {
+        Console.WriteLine($"Щстаток от деления {num1} / {num2} = {num1 % num2}");
+    }
+}
 
-// void KratDecimal(double num1, double num2)
-// {
-//     if (num1 % num2 == 0)
-//     {
-//         Console.WriteLine("Кратно");
-//     }
-//     else
-//     {
-//         Console.WriteLine($"Щстаток от деления {num1} / {num2} = {num1 % num2}");
-//     }
-// }
+Console.WriteLine("Input firstnumber");
+double num1 = Convert.ToDouble(Console.ReadLine());
 
-// Console.WriteLine("Input firstnumber");
-// double num1 = Convert.ToDouble(Console.ReadLine());
-
-// Console.WriteLine("Input secondnumber");
-// double num2 = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("Input secondnumber");
+double num2 = Convert.ToDouble(Console.ReadLine());
 
 
-// KratDecimal (num1, num2);
+KratDecimal (num1, num2);
