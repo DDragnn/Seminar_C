@@ -65,7 +65,6 @@ ShowArray(CreatRandomArray(size, minValue, maxValue));
 //78 -> 2
 //89126 -> 5
 
-int CountNumber(int num)
 
 
 
