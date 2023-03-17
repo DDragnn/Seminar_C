@@ -1,0 +1,15 @@
+C:\Users\Rostik\Desktop\Seminar_C\Homework\Homework9\bin\Debug\net7.0\Homework9.exe
+C:\Users\Rostik\Desktop\Seminar_C\Homework\Homework9\bin\Debug\net7.0\Homework9.deps.json
+C:\Users\Rostik\Desktop\Seminar_C\Homework\Homework9\bin\Debug\net7.0\Homework9.runtimeconfig.json
+C:\Users\Rostik\Desktop\Seminar_C\Homework\Homework9\bin\Debug\net7.0\Homework9.dll
+C:\Users\Rostik\Desktop\Seminar_C\Homework\Homework9\bin\Debug\net7.0\Homework9.pdb
+C:\Users\Rostik\Desktop\Seminar_C\Homework\Homework9\obj\Debug\net7.0\Homework9.csproj.AssemblyReference.cache
+C:\Users\Rostik\Desktop\Seminar_C\Homework\Homework9\obj\Debug\net7.0\Homework9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rostik\Desktop\Seminar_C\Homework\Homework9\obj\Debug\net7.0\Homework9.AssemblyInfoInputs.cache
+C:\Users\Rostik\Desktop\Seminar_C\Homework\Homework9\obj\Debug\net7.0\Homework9.AssemblyInfo.cs
+C:\Users\Rostik\Desktop\Seminar_C\Homework\Homework9\obj\Debug\net7.0\Homework9.csproj.CoreCompileInputs.cache
+C:\Users\Rostik\Desktop\Seminar_C\Homework\Homework9\obj\Debug\net7.0\Homework9.dll
+C:\Users\Rostik\Desktop\Seminar_C\Homework\Homework9\obj\Debug\net7.0\refint\Homework9.dll
+C:\Users\Rostik\Desktop\Seminar_C\Homework\Homework9\obj\Debug\net7.0\Homework9.pdb
+C:\Users\Rostik\Desktop\Seminar_C\Homework\Homework9\obj\Debug\net7.0\Homework9.genruntimeconfig.cache
+C:\Users\Rostik\Desktop\Seminar_C\Homework\Homework9\obj\Debug\net7.0\ref\Homework9.dll
